@@ -1,9 +1,3 @@
-/////////////////////////////////////////////
-//Michael Cunningham
-//Professor Mohammad Morovati
-//Spring 2022 Introduction to Java (CIS-2571-NET01)
-//Unit 15 "Racing Car"
-/////////////////////////////////////////////
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
